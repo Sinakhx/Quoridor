@@ -1,0 +1,12 @@
+{
+  "name": "base64-quoridor",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "base64.js",
+  "scripts": {
+    "test": "clear && python3 base64.py && node base64.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
